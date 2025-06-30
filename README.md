@@ -1,6 +1,6 @@
-## Cell Segmentation Collection
+# Cell Segmentation Collection
 this repository is a collection of cell segmentation and detection projects I have done so far
-# Projects 
+## Projects 
 so far there are two projects you can read and use so feel free to experiment them !
 
 ## WBC detection and classification
