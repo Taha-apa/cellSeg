@@ -15,4 +15,4 @@ Data -> bccd trained yolo11 -> cutted wbcs -> wbc class detector
 A more refined and easy-to-use architecture for the project will be created soon
 
 ## Breast cancer cell segmentation
-to be added later
+just a simple straight forward implementation of u-net architecture for the purpose of segmentation of ultrasound dataset of breast cancer cancerous cell segmentation
