@@ -1,4 +1,4 @@
-# Cell Segmentation Collection
+# Cell Segmentation and detection Collection
 this repository is a collection of cell segmentation and detection projects I have done so far
 ## Projects 
 so far there are two projects you can read and use so feel free to experiment them !
@@ -15,4 +15,4 @@ Data -> bccd trained yolo11 -> cutted wbcs -> wbc class detector
 A more refined and easy-to-use architecture for the project will be created soon
 
 ## Breast cancer cell segmentation
-
+to be added later
